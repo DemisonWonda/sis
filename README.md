@@ -32,7 +32,7 @@ Sistem informasi sekolah berbasis laravel 11 dengan template dashboard
 clone project atau download
 
 ```bash
-  git clone https://github.com/lacsapadnan/Sistem-Informasi-Sekolah.git
+  git clone https://github.com/DemisonWonda/sis.git
   cd Sistem-Informasi-Sekolah
   npm install
   composer install
@@ -119,3 +119,4 @@ Promo 15/20 Kloter Berikutnya **750rb**
 Hubungi 
 - https://wa.me/6282244793613
 - http://instagram.com/lacsapadnan
+
