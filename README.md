@@ -22,7 +22,8 @@ Sistem informasi sekolah berbasis laravel 11 dengan template dashboard
 
 ## Screenshots
 
-![Login](https://i.ibb.co/QrvFVsq/download.png)
+<img width="938" height="440" alt="image" src="https://github.com/user-attachments/assets/e98d2684-420b-4d85-b575-057a57ab296d" />
+
 
 ![Dashboard](https://i.ibb.co/4Vvff5F/Screenshot-3.jpg)
 
@@ -119,4 +120,5 @@ Promo 15/20 Kloter Berikutnya **750rb**
 Hubungi 
 - https://wa.me/6282244793613
 - http://instagram.com/lacsapadnan
+
 
