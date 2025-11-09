@@ -10,7 +10,7 @@ Sistem informasi sekolah berbasis laravel 11 dengan template dashboard
 
 ## Fitur
 
-- CRUD Jurusan
+
 - CRUD Mata Pelajaran
 - CRUD Guru
 - CRUD Kelas
@@ -24,8 +24,10 @@ Sistem informasi sekolah berbasis laravel 11 dengan template dashboard
 
 <img width="938" height="440" alt="image" src="https://github.com/user-attachments/assets/e98d2684-420b-4d85-b575-057a57ab296d" />
 
+<img width="953" height="447" alt="image" src="https://github.com/user-attachments/assets/95a7d86f-5b01-41ec-b457-291133a06f76" />
 
-![Dashboard](https://i.ibb.co/4Vvff5F/Screenshot-3.jpg)
+<img width="955" height="439" alt="image" src="https://github.com/user-attachments/assets/67205e36-5b81-436d-9e91-c538ea748c45" />
+
 
 
 ## Instalasi
@@ -108,8 +110,8 @@ https://sekolah.karsagroup.id
 
 Admin
 ```bash
-  email : admin@mail.com
-  password : password
+  email : admin@gmail.com
+  password : password123
 ```
 
 ## PEMBELIAN
@@ -120,5 +122,6 @@ Promo 15/20 Kloter Berikutnya **750rb**
 Hubungi 
 - https://wa.me/6282244793613
 - http://instagram.com/lacsapadnan
+
 
 
